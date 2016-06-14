@@ -1,0 +1,3 @@
+[submodule "sites/getfast"]
+	path = sites/getfast
+	url = git@bitbucket.org:h0st1le/getfast.git
